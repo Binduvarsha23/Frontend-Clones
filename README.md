@@ -1,2 +1,2 @@
-*Note* : it is an clone resume, not my resume;
-i made my senior resume clone using frontend from shared document. i made it similar. Congrats to me.
+Cloned Resume: Recreated with Frontend
+Welcome to this repository dedicated to a cloned resume recreated using frontend technologies! This project is a clone of a senior resume, meticulously crafted to resemble the original document using HTML and CSS. Whether you're here to explore the frontend techniques employed or seeking inspiration for your own projects, you'll find this repository insightful.
