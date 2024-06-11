@@ -37,7 +37,7 @@ a{
 }
 
 .nav-add{
-    width: 10%;
+    width: 8%;
 }
 #d{
     color: #cccccc;
@@ -113,10 +113,11 @@ span{
 }
 
 .nav-signin{
+    margin-left: 30px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    width: 10%;
+    width: 8%;
 }
 
 .nav-cart{
@@ -184,7 +185,7 @@ span{
 
 .hero-section{
     background-image: url("main.jpg");
-    height: 500px;
+    height: 580px;
 }
 
 .hero-message {
@@ -218,10 +219,10 @@ span{
 }
 .box{
     display: flex;
-    height: 325px;
+    height: 400px;
     background-color: white;
     margin-left: 18px;
-    padding-top: 12px;
+    padding-top: 20px;
     padding-left: 20px;
     flex-direction: column;
 }
@@ -238,7 +239,8 @@ span{
 }
 
 img {
-    width: 150px
+    width: 150px;
+    height: 140px;
 }
 
 .box2{
@@ -255,19 +257,24 @@ img {
 .box4 img{
     padding-top: 10px;
     width: 95%;
-    height: 220px;
+    height: 300px;
 }
 
 .shopSection{
-    height: 470PX;
+    height: 500PX;
     background-color: whitesmoke;
 }
 
 .scroll {
     display: flex;
-    justify-content: center;
     align-items: center;
 }
+
+.scroll img{
+    height: 200px;
+    width: 100%;
+}
+
 
 .foot-panel {
     background-color: #37475a;
