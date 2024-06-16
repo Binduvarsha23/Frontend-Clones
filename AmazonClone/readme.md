@@ -1,5 +1,5 @@
 # Amazon.com Clone
-![Uploading amazon.png…]()
+![amazon](https://github.com/Binduvarsha23/Frontend-Clones/assets/123391226/b42b0cef-2c9d-4311-af59-e947d21e7af8)
 ## Overview
 
 This project is a clone of the Amazon.com homepage, developed using HTML, CSS, and FontAwesome. It replicates the visual design and structure of the Amazon homepage, including a navbar, hero section, product showcases, and footer.
