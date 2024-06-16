@@ -186,6 +186,7 @@ span{
 .hero-section{
     background-image: url("main.jpg");
     height: 580px;
+    background-size: cover;
 }
 
 .hero-message {
@@ -217,18 +218,17 @@ span{
     color: #007185;
     padding-left: 8px;
 }
+
 .box{
+    width: 100%;
     display: flex;
-    height: 400px;
+    height: 55vmin;
     background-color: white;
     margin-left: 18px;
-    padding-top: 20px;
-    padding-left: 20px;
+    padding: 20px;
     flex-direction: column;
 }
-.box1{
-    width: 25%;
-}
+
 .Gaming {
     padding-top: 10px;
     font-size: small;
@@ -239,39 +239,32 @@ span{
 }
 
 img {
-    width: 150px;
-    height: 140px;
+    width: 20vmin;
+    height: 20vmin;
+    padding: 10px;
 }
 
-.box2{
-    width: 25%;
-}
-
-.box3{
-    width: 25%;
-}
-
-.box4{
-    width: 25%;
-}
 .box4 img{
     padding-top: 10px;
-    width: 95%;
-    height: 300px;
+    width: 100%;
+    height: 40vmin;
 }
 
 .shopSection{
-    height: 500PX;
+    height: 74vmin;
     background-color: whitesmoke;
+    display: flex;
+    align-items: flex-end;
 }
 
 .scroll {
     display: flex;
-    align-items: center;
+    justify-content: space-evenly;
+    align-items: flex-end;
 }
 
 .scroll img{
-    height: 200px;
+    height: 30vmin;
     width: 100%;
 }
 
@@ -305,7 +298,6 @@ ul a{
 }
 
 .scroll {
-    margin-top: 10px;
     height: 400px;
     background-color: white;
 }
