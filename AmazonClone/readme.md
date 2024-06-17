@@ -76,7 +76,3 @@ Feel free to fork this repository and contribute by submitting a pull request. A
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-Feel free to replace the placeholders and make any adjustments as per your needs.
