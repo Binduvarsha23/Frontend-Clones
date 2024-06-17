@@ -26,7 +26,7 @@ This project is a clone of the Amazon.com homepage, developed using HTML, CSS, a
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd amazon-clone
+    cd AmazonClone
     ```
 3. **Open the `index.html` file in your browser**:
     - You can directly open the `index.html` file in any web browser.
